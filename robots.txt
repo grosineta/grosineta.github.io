@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://grosineta.github.io/grosineta.txt.gz
+Sitemap: https://grosineta.github.io/app/grosineta.txt.gz
+Sitemap: https://grosineta.github.io/assets/grosineta.txt.gz
+Sitemap: https://grosineta.github.io/css/grosineta.txt.gz
+Sitemap: https://grosineta.github.io/includes/grosineta.txt.gz
+Sitemap: https://grosineta.github.io/item/grosineta.txt.gz
+Sitemap: https://grosineta.github.io/src/grosineta.txt.gz
